@@ -85,7 +85,7 @@ print(f"Độ tương đồng giữa hai khuôn mặt: {similarity:.2f}")
 ---  
 
 ## 🔥 Demo  
-![Face Detection](https://insightface.ai/assets/images/demo-face-detection.png)  
+![Face Detection](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-05%20020151.png#:~:text=README.md-,Screenshot%202025%2D03%2D05%20020151,-.png)  
 
 ---  
 
