@@ -21,7 +21,7 @@ Dự án này sử dụng **InsightFace** – một thư viện nhận diện kh
 - 📷 **OpenCV**  
 - 🤖 **InsightFace**
 
-![Face Detection]([https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-05%20020151.png#:~:text=README.md-,Screenshot%202025%2D03%2D05%20020151,-.png](https://github.com/chinhliki/Nhan-dien-khuon-mat/edit/main/README.md#:~:text=Screenshot%202025%2D03%2D17%20211520))  
+![Face Detection](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-17%20211520.png#:~:text=17%20205953.png-,Screenshot%202025%2D03%2D17%20211520.png,-Tri_tue_nhan_tao.pptx)  
 
 ### 2️⃣ Cài đặt thư viện  
 Chạy lệnh sau để cài đặt các thư viện cần thiết:  
