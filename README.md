@@ -20,7 +20,7 @@ Dự án này sử dụng **InsightFace** – một thư viện nhận diện kh
 - 🎮 **CUDA** (nếu chạy trên GPU)  
 - 📷 **OpenCV**  
 - 🤖 **InsightFace**
-
+## 📌 Mô Hình
 ![Face Detection](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-17%20211520.png#:~:text=17%20205953.png-,Screenshot%202025%2D03%2D17%20211520.png,-Tri_tue_nhan_tao.pptx)  
 
 ### 2️⃣ Cài đặt thư viện  
