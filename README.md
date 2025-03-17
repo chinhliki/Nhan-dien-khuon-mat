@@ -3,9 +3,7 @@
 <div align="center">
 
 </p>
-
-[![Made by AIoTLab](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-17%20205953.png?raw=true)
-
+![Made by AIoTLab](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-17%20205953.png?raw=true)
 </div>
 ## 📌 Giới thiệu  
 Dự án này sử dụng **InsightFace** – một thư viện nhận diện khuôn mặt mạnh mẽ dựa trên Deep Learning, được tối ưu hóa cho GPU. InsightFace cung cấp các mô hình hiện đại để phát hiện, nhận dạng và so khớp khuôn mặt với độ chính xác cao.  
