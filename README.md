@@ -4,7 +4,7 @@
 Dự án này sử dụng **InsightFace** – một thư viện nhận diện khuôn mặt mạnh mẽ dựa trên Deep Learning, được tối ưu hóa cho GPU. InsightFace cung cấp các mô hình hiện đại để phát hiện, nhận dạng và so khớp khuôn mặt với độ chính xác cao.  
 
 ---  
-![Face Detection](Screenshot 2025-03-17 205953.png)  
+![Face Detection](https://github.com/chinhliki/Nhan-dien-khuon-mat/edit/main/README.md#:~:text=Screenshot%202025%2D03%2D17%20205953.png)  
 ## 🎯 Tính năng  
 - 📸 **Phát hiện khuôn mặt** trong hình ảnh hoặc video.  
 - 🔍 **Nhận dạng và so khớp khuôn mặt** với dữ liệu đã lưu trữ.  
@@ -19,8 +19,10 @@ Dự án này sử dụng **InsightFace** – một thư viện nhận diện kh
 - 🐍 **Python** >= 3.8  
 - 🎮 **CUDA** (nếu chạy trên GPU)  
 - 📷 **OpenCV**  
-- 🤖 **InsightFace**  
+- 🤖 **InsightFace**
+
 ![Face Detection]([https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-05%20020151.png#:~:text=README.md-,Screenshot%202025%2D03%2D05%20020151,-.png](https://github.com/chinhliki/Nhan-dien-khuon-mat/edit/main/README.md#:~:text=Screenshot%202025%2D03%2D17%20211520))  
+
 ### 2️⃣ Cài đặt thư viện  
 Chạy lệnh sau để cài đặt các thư viện cần thiết:  
 
