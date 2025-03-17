@@ -2,12 +2,9 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
-  <img src="images/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
-[![Made by AIoTLab](https://github.com/chinhliki/Nhan-dien-khuon-mat/edit/main/README.md#:~:text=Screenshot%202025%2D03%2D17%20205953.png)
+[![Made by AIoTLab](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-17%20205953.png?raw=true)
 
 </div>
 ## 📌 Giới thiệu  
